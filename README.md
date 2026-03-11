@@ -37,3 +37,7 @@ if (a != b){
   console.log('diferentes')
 }
 ```
+### tipagem-variavel
+```
+nunca utilizar var, utilize sempre let or const ta
+```
