@@ -10,7 +10,7 @@
   nome = "Matheus"
 
   \\bom
-  relação_amorosa = "matheus + marcos = "marcheus"
+  relação_amorosa: string = "matheus + marcos = "marcheus"
 
 
 ```
